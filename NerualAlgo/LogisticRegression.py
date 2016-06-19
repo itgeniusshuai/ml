@@ -97,9 +97,5 @@ if __name__=='__main__':
     print xa,ya
 
     #使用sklearn
-
-
-
-
     plt.plot(xa,ya)
     plt.show()
